@@ -1,0 +1,2168 @@
+<corpus>
+  <word wid="1">
+	<text>bisa</text>
+	<senses>
+		<sense sid="1" pos="verb">
+			<gloss>
+				mampu (kuasa melakukan sesuatu); dapat
+			</gloss>
+			<enwordnet> 
+				<sense key="able%3:00:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				zat racun yang dapat menyebabkan luka, busuk, atau mati bagi sesuatu yang hidup (biasanya terdapat pada binatang)
+			</gloss>
+			<enwordnet>
+				<sense key="poison%1:27:00::"/>
+				<sense key="toxicant%1:27:00::"/>
+				<sense key="poisonous_substance%1:27:00::"/>
+			</enwordnet>
+		</sense>
+	</senses>
+  </word>
+  <word wid="2">
+    <text>kaki</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				anggota badan yang menopang tubuh dan dipakai untuk berjalan (dari pangkal paha ke bawah) 
+			</gloss>
+			<enwordnet> 
+				<sense key="foot%1:08:01"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				bagian atau suatu benda yang menjadi penopang (penyangga) yang berfungsi sebagai kaki
+			</gloss>
+			<enwordnet>
+				<sense key="base%1:06:01"/>
+				<sense key="foundation%1:06:00"/>
+				<sense key="fundament%1:06:00"/>
+				<sense key="foot%1:06:00"/>
+				<sense key="groundwork%1:06:00"/>
+				<sense key="substructure%1:06:00"/>
+				<sense key="understructure%1:06:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				bagian yang bawah
+			</gloss>
+			<enwordnet>
+				<sense key="foot%1:15:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="noun">
+			<gloss>
+				ukuran panjang, 12 inci (0.3048 m)
+			</gloss>
+			<enwordnet>
+				<sense key="foot%1:23:00"/>
+				<sense key="ft%1:23:00"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="3">
+    <text>kepala</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				bagian tubuh yang di atas leher (pada manusia dan beberapa jenis hewan merupakan tempat otak, pusat jaringan saraf, dan beberapa pusat indra)
+			</gloss>
+			<enwordnet>
+				<sense key="head%1:08:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				pemimpin; ketua (kantor, pekerjaan, perkumpulan, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="head%1:18:00::"/>
+				<sense key="chief%1:18:00::"/>
+				<sense key="leader%1:18:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				pikiran, akal, budi
+			</gloss>
+			<enwordnet>
+				<sense key="mind%1:09:00::"/>
+				<sense key="head%1:09:00::"/>
+				<sense key="brain%1:09:01::"/>
+			</enwordnet>
+		</sense>	  
+		<sense sid="4" pos="noun">
+			<gloss>
+				bagian suatu benda yang sebelah atas (ujung, depan, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="head%1:15:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="4">
+    <text>halaman</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				pekarangan rumah (sekolah dan sebagainya); tanah di sekitar rumah (sekolah dan sebagainya)
+			</gloss>
+			<context/>
+			<enwordnet>
+				<sense key="yard%1:06:02::"/>
+				<sense key="grounds%1:06:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				muka dari lembaran buku (majalah, surat kabar, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="page%1:10:00"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="5">
+    <text>buah</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss> 
+				bagian tumbuhan yang berasal dari bunga atau putik
+			</gloss>
+			<enwordnet>
+				<sense key="fruit%1:20:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				kata penggolong bermacam-macam benda
+			</gloss>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				sesuatu yang diadakan (dibuat, diakibatkan) oleh suatu kejadian
+			</gloss>
+			<enwordnet>
+				<sense key="fruit%1:11:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="6">
+    <text>bunga</text>
+    <senses>
+        <sense sid="1" pos="noun">
+            <gloss>
+				bagian tumbuhan yg akan menjadi buah, biasanya elok warnanya dan harum baunya
+			</gloss>
+            <enwordnet>
+                <sense key="flower%1:20:02::"/>
+                <sense key="bloom%1:20:00::"/>
+                <sense key="blossom%1:20:00::"/>
+            </enwordnet>
+        </sense>
+		<sense sid="2" pos="noun">
+            <gloss>
+				imbalan jasa untuk penggunaan uang atau modal yang dibayar pada waktu yang disetujui, umumnya dinyatakan sebagai persentase dari modal pokok
+			</gloss>
+            <enwordnet>
+                <sense key="fixed_charge%1:21:00::"/>
+                <sense key="interest%1:21:00::"/>
+                <sense key="due%1:21:00::"/>
+            </enwordnet>
+        </sense>
+        <sense sid="3" pos="noun">
+            <gloss>
+				sesuatu yang indah (bermakna konotatif)
+			</gloss>
+        </sense>
+    </senses>
+  </word>
+  <word wid="7">
+    <text>bintang</text>
+    <senses>
+    	<sense sid="1" pos="noun">
+    		<gloss> 
+    			benda langit terdiri atas gas menyala seperti matahari, terutama tampak pada malam hari
+    		</gloss>
+    		<enwordnet>
+    			<sense key="star%1:17:00::"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="2" pos="noun">
+    		<gloss> 
+    			orang yang terkemuka atau terbaik
+    		</gloss>
+    		<enwordnet>
+    			<sense key="star%1:18:00::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="3" pos="noun">
+    		<gloss> 
+    			sesuatu berbentuk bintang
+    		</gloss>
+    		<enwordnet>
+    			<sense key="star%1:25:00::"/>
+    		</enwordnet>
+    	</sense>
+    </senses>
+  </word>
+  <word wid="8">
+    <text>bulan</text>
+    <senses>
+    	<sense sid="1" pos="noun">
+    		<gloss>
+    			benda langit yang mengitari bumi, bersinar pada malam hari karena pantulan sinar matahari
+    		</gloss>
+    		<enwordnet>
+    			<sense key="moon%1:17:00::"/>
+    			<sense key="moon%1:17:01::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="2" pos="noun">
+    		<gloss>
+    			masa atau jangka waktu perputaran bulan mengitari bumi dari mulai tampaknya bulan sampai hilang kembali (29 atau 30 hari)
+    		</gloss>
+    		<enwordnet>
+    			<sense key="month%1:28:00::"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="3" pos="noun">
+    		<gloss>
+    			seperdua belas bagian dari tahun kalender
+    		</gloss>
+    		<enwordnet>
+    			<sense key="month%1:28:01::"/>
+				<sense key="calendar_month%1:28:00::"/>
+    		</enwordnet>
+    	</sense>
+    </senses>
+  </word>
+  <word wid="9">
+    <text>jam</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				alat untuk mengukur waktu (seperti arloji, lonceng dinding)
+			</gloss>
+			<enwordnet>
+				<sense key="clock%1:06:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				waktu yang lamanya 1/24 hari (dari sehari semalam) sama dengan 60 menit atau 3.600 detik
+			</gloss>
+			<enwordnet>
+				<sense key="hour%1:28:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				pukul
+			</gloss>
+			<enwordnet>
+				<sense key="o'clock%4:02:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="noun">
+			<gloss> 
+				waktu; saat
+			</gloss>
+			<enwordnet>
+				<sense key="time%1:28:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="10">
+    <text>mata</text>
+    <senses>
+    	<sense sid="1" pos="noun">
+    		<gloss> 
+				indra untuk melihat; indra penglihat 
+			</gloss>
+    		<enwordnet>
+    			<sense key="eye%1:08:00::"/>
+				<sense key="oculus%1:08:00"/>
+				<sense key="optic%1:08:00"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="2" pos="noun">
+    		<gloss>
+				yang terpenting (sumbu, pokok, sumber, dan sebagainya)
+			</gloss>
+    	</sense>
+		<sense sid="3" pos="noun">
+    		<gloss>
+				unit, tipe, satuan
+			</gloss>
+    		<enwordnet>
+    			<sense key="unit%1:23:00::"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="4" pos="noun">
+    		<gloss>
+				bagian yang tajam pada alat pemotong (pada pisau, kapak, dan sebagainya)
+			</gloss>
+    	</sense>
+    	<sense sid="5" pos="noun">
+    		<gloss> 
+				sesuatu yang menyerupai mata (seperti lubang kecil)
+			</gloss>
+    		<enwordnet>
+    			<sense key="eye%1:06:00::"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="6" pos="noun">
+    		<gloss> 
+				pandangan; pengamatan; penilaian 
+			</gloss>
+    	</sense>
+    </senses>
+  </word>
+  <word wid="11">
+    <text>kali</text>
+    <senses>
+    	<sense sid="1" pos="noun">
+    		<gloss>kata untuk menyatakan kekerapan tindakan</gloss>
+    		<enwordnet>
+    			<sense key="time%1:11:00::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="2" pos="noun">
+    		<gloss>kata untuk menyatakan kelipatan, perbanyakan, pergandaan, atau perbandingan (angka, ukuran, harga, dan sebagainya)</gloss>
+    		<enwordnet>
+    			<sense key="time%1:04:00::"/>
+				<sense key="multiplication%1:04:00::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="3" pos="noun">
+    		<gloss>batang air; bengawan; sungai; aliran air yang besar</gloss>
+    		<enwordnet>
+    			<sense key="river%1:17:00::"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="4" pos="noun">
+    		<gloss>
+				kata untuk menyatakan salah satu waktu terjadinya peristiwa yang merupakan bagian dari rangkaian peristiwa yang pernah dan masih akan terus terjadi
+			</gloss>
+			<enwordnet>
+    			<sense key="times%1:28:01::"/>
+    		</enwordnet>
+    	</sense>
+    </senses>
+  </word>
+  <word wid="12">
+    <text>sarung</text>
+    <senses>
+        <sense sid="1" pos="noun">
+			<gloss>
+                pembungkus; pelindung
+            </gloss>
+            <enwordnet> 
+                <sense key="binding%1:06:00::"/>
+                <sense key="cover%1:06:04::"/>
+				<sense key="case%1:06:02::"/>
+            </enwordnet>
+        </sense>
+        <sense sid="2" pos="noun">
+            <gloss>
+                kain sarung
+            </gloss>
+            <enwordnet> 
+                <sense key="sarong%1:06:00::"/>
+            </enwordnet>
+        </sense>
+    </senses>
+  </word>
+  <word wid="13">
+	<text>dunia</text>
+	<senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				bumi dengan segala sesuatu yang terdapat di atasnya; planet tempat kita hidup
+			</gloss>
+			<enwordnet>
+				<sense key="world%1:17:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				lingkungan atau lapangan kehidupan
+			</gloss>
+			<enwordnet>
+				<sense key="world%1:17:02::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				semua manusia yang ada di muka bumi
+			</gloss>
+			<enwordnet>
+				<sense key="world%1:05:00::"/>
+				<sense key="humankind%1:05:00::"/>
+				<sense key="human_beings%1:05:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="noun">
+			<gloss>
+				sesuatu yang bersifat kebendaan, fana, tidak kekal
+			</gloss>
+			<enwordnet>
+				<sense key="world%1:09:01::"/>
+				<sense key="earth%1:09:00::"/>
+			</enwordnet>
+		</sense>
+	</senses>
+  </word>
+  <word wid="14">
+    <text>badan</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				tubuh (jasad manusia keseluruhan); jasmani; raga
+			</gloss>
+			<enwordnet>
+				<sense key="body%1:08:01::"/>
+			</enwordnet>
+		</sense>
+		  <sense sid="2" pos="noun">
+			<gloss>
+				bagian utama dari suatu benda
+			</gloss>
+			<enwordnet>
+				<sense key="body%1:06:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				sekumpulan orang yang merupakan kesatuan untuk mengerjakan sesuatu
+			</gloss>
+			<enwordnet>
+				<sense key="body%1:14:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="15">
+    <text>nilai</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				harga, nilai ekonomis
+			</gloss>
+			<enwordnet>
+				<sense key="value%1:21:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				kuantitas numerik (angka atau huruf ) yang menyatakan pencapaian
+			</gloss>
+			<enwordnet>
+				<sense key="mark%1:09:01::"/>
+				<sense key="grade%1:09:00::"/>
+				<sense key="score%1:09:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				sifat-sifat (hal-hal) yang penting atau berguna bagi kemanusiaan
+			</gloss>
+			<enwordnet>
+				<sense key="value%1:09:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="noun">
+			<gloss>
+				skala, intensitas, atau angka yang menjadi atribut sesuatu; banyak sedikitnya isi; berapa banyaknya sesuatu dapat diukur
+			</gloss>
+			<enwordnet>
+				<sense key="value%1:09:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="16">
+    <text>layar</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				kain tebal yang dibentangkan untuk menadah angin agar perahu (kapal) dapat berjalan (laju) 
+			</gloss>
+			<enwordnet>
+				<sense key="sail%1:06:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>bidang (berupa kain, papan, kaca) tempat menayangkan gambar (film, televisi, dan sebagainya)</gloss>
+			<enwordnet>
+				<sense key="screen%1:06:05"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="17">
+    <text>kulit</text>
+    <senses>
+	  <sense sid="1" pos="noun">
+		<gloss>
+			pemalut paling luar tubuh (manusia, binatang); jangat
+		</gloss>
+		<enwordnet> 
+			<sense key="skin%1:08:00::"/>
+			<sense key="tegument%1:08:00::"/>
+			<sense key="skin%1:05:01::"/>
+			<sense key="pelt%1:05:00::"/>
+		</enwordnet>
+	  </sense>
+      <sense sid="2" pos="noun">
+		<gloss>
+			hasil olahan kulit binatang (disamak, dikeringkan, dan sebagainya)
+		</gloss>
+		<enwordnet>
+			<sense key="leather%1:27:00::"/>
+		</enwordnet>
+	  </sense>
+	  <sense sid="3" pos="noun">
+		<gloss>
+			lapisan terluar; pemalut inti, memiliki isi di dalamnya (buah, biji, kayu, dan sebagainya)
+		</gloss>
+		<enwordnet>
+			<sense key="skin%1:13:00::"/>
+			<sense key="peel%1:13:00::"/>
+			<sense key="skin%1:06:01::"/>
+		</enwordnet>
+	  </sense>
+    </senses>
+  </word>
+  <word wid="18">
+    <text>bidang</text>
+    <senses>
+      <sense sid="1" pos="noun">
+        <gloss>
+			permukaan rata dan tentu batasnya, permukaan yang dibatasi panjang dan lebar
+		</gloss>
+        <enwordnet>
+			<sense key="side%1:06:00::"/>
+			<sense key="plane%1:25:00::"/>
+			<sense key="sheet%1:25:00::"/>
+        </enwordnet>
+      </sense>
+      <sense sid="2" pos="noun">
+        <gloss>
+			lapangan, aspek (dalam arti lingkungan pekerjaan, pengetahuan, dan sebagainya)
+        </gloss>
+        <enwordnet>
+			<sense key="discipline%1:09:00::"/>
+			<sense key="subject%1:09:00::"/>
+			<sense key="field%1:09:00::"/>
+			<sense key="area%1:09:00::"/>
+        </enwordnet>
+      </sense>
+      <sense sid="3" pos="noun">
+        <gloss>
+            kata penggolong bagi objek yang luas seperti tanah, sawah, ladang
+        </gloss>
+      </sense>
+      <sense sid="4" pos="adjective">
+        <gloss>
+            lebar
+        </gloss>
+        <enwordnet>
+			<sense key="wide%3:00:00:large:00"/>
+			<sense key="broad%3:00:00:large:00"/>
+        </enwordnet>
+      </sense>
+    </senses>
+  </word>
+  <word wid="19">
+    <text>jalan</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				tempat untuk lalu lintas orang (kendaraan dan sebagainya); perlintasan; akses
+			</gloss>
+			<enwordnet>
+				<sense key="road%1:06:00::"/>
+				<sense key="route%1:06:00::"/>
+				<sense key="street%1:06:00::"/>
+			</enwordnet>
+		</sense>
+		 <sense sid="2" pos="noun">
+            <gloss>
+				akses, penghubung
+			</gloss> 
+            <enword>
+				<sense key="way%1:06:00::"/>
+            </enword>
+        </sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				perkembangan atau berlangsungnya (tentang perundingan, rapat, cerita, dan sebagainya) dari awal sampai akhir
+			</gloss>
+			<enwordnet>
+				<sense key="way%1:07:01::"/>
+				<sense key="manner%1:07:02::"/>
+				<sense key="style%1:07:00::"/>
+				<sense key="mode%1:07:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="noun">
+			<gloss>
+				cara (akal, syarat, ikhtiar, dan sebagainya) untuk melakukan (mengerjakan, mencapai, mencari) sesuatu
+			</gloss>
+			<enwordnet>
+				<sense key="means%1:04:00::"/>
+				<sense key="way%1:04:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="5" pos="noun">
+			<gloss>
+				kesempatan (untuk mengerjakan sesuatu)
+			</gloss>
+			<enwordnet>
+				<sense key="opportunity%1:26:00::"/>
+				<sense key="chance%1:26:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="6" pos="noun">
+			<gloss>
+				panduan perilaku dan tindak-tanduk, jalan kehidupan
+			</gloss>
+			<enwordnet>
+				<sense key="way%1:04:00::"/>
+				<sense key="path%1:04:00::"/>
+				<sense key="way_of_life%1:04:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="7" pos="verb">
+			<gloss>
+				melangkahkan kaki
+			</gloss>
+			<enwordnet>
+				<sense key="walk%2:38:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="20">
+    <text>memerah</text>
+    <senses>
+		<sense sid="1" pos="verb">
+			<gloss> 
+				menjadi merah 
+			</gloss>
+			<ewordnet>
+				<sense key="redden%2:29:00::"/>
+				<sense key="blush%2:29:00::"/>
+				<sense key="crimson%2:29:00::"/>
+			</ewordnet>
+		</sense>
+		<sense sid="2" pos="verb">
+			<gloss> 
+				memeras (memijit) supaya keluar airnya 
+			</gloss>
+			<ewordnet>
+				<sense key="squeeze%2:35:00::"/>
+			</ewordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="21">
+    <text>menurunkan</text>
+    <senses>
+    	<sense sid="1" pos="verb">
+    		<gloss>
+				membawa (menjadikan) sesuatu turun, seperti menarik turun, mengerek ke bawah, dan sebagainya; menyebabkan seseorang ke posisi lebih rendah
+			</gloss>
+    		<enwordnet>
+    			<sense key="take_down%2:38:00::"/>
+				<sense key="let_down%2:38:00::"/>
+				<sense key="get_down%2:38:00::"/>
+				<sense key="bring_down%2:38:00::"/>
+				<sense key="lower%2:38:00::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="2" pos="verb">
+    		<gloss>
+				merendahkan (derajat, kedudukan, dan sebagainya); memerosotkan atau mengurangkan (harga, nilai, dan sebagainya); menyurutkan (menyusutkan)
+			</gloss>
+    		<enwordnet>
+    			<sense key="decrease%2:30:00::"/>
+				<sense key="diminish%2:30:00::"/>
+				<sense key="lessen%2:30:00::"/>
+				<sense key="degrade%2:30:00::"/>
+				<sense key="cheapen%2:30:00::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="3" pos="verb">
+    		<gloss>
+				menyampaikan sesuatu, seperti wahyu (sabda, ajaran, dan sebagainya)
+			</gloss>
+    	</sense>
+		<sense sid="4" pos="verb">
+    		<gloss>
+				memilih untuk ikut bermain (bertandang dan sebagainya); menyertakan; mengikutkan
+			</gloss>
+			<enwordnet>
+				<sense key="field%2:31:00::"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="5" pos="verb">
+    		<gloss>
+				memperanakkan; meninggalkan (warisan, pusaka, dan sebagainya) kepada; memindahkan kepada (anak, cucu, dan sebagainya) 
+			</gloss>
+    	</sense>
+		<sense sid="6" pos="verb">
+    		<gloss>
+				menyederhanakan bentuk, seperti persamaan
+			</gloss>
+			<enwordnet>
+				<sense key="reduce%2:40:04::"/>
+    		</enwordnet>
+    	</sense>
+    </senses>
+  </word>
+  <word wid="22">
+    <text>mengikat</text>
+    <senses>
+		<sense sid="1" pos="verb">
+			<gloss>
+				mengebat; mengeratkan (menyatukan dan sebagainya) dengan tali
+			</gloss>
+			<enwordnet> 
+				<sense key="tie%2:35:00::"/>
+				<sense key="bind%2:35:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="verb">
+			<gloss>
+				membuat ikatan sosial atau emosional
+			</gloss>
+			<enwordnet> 
+				<sense key="bind%2:41:01::"/>
+				<sense key="tie%2:41:01::"/>
+				<sense key="attach%2:41:03::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="verb">
+			<gloss>
+				wajib ditepati
+			</gloss>
+			<enwordnet> 
+				<sense key="binding%3:00:00:valid:00"/>
+			</enwordnet>
+        </sense>
+    </senses>
+  </word>
+  <word wid="23">
+    <text>mengandung</text>
+    <senses>
+    	<sense sid="1" pos="verb">
+			<gloss>
+				tercantum di dalamnya; memuat; berisi
+			</gloss>
+			<enwordnet>
+				<sense key="contain%2:42:13::"/>
+				<sense key="hold%2:42:13::"/>
+				<sense key="carry%2:42:03::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="verb">
+			<gloss>
+				hamil; membawa keturunan yang sedang berkembang di dalam badan
+			</gloss>
+			<enwordnet>
+				<sense key="carry%2:29:00::"/>
+				<sense key="bear%2:29:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="24">
+    <text>menyusun</text>
+    <senses>
+		<sense sid="1" pos="verb">
+			<gloss>
+				menempatkan secara beraturan
+			</gloss>
+			<enwordnet> 
+				<sense key="arrange%2:35:00::"/>
+				<sense key="set up%2:35:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="verb">
+			<gloss>
+				merencanakan, menyiapkan, membentuk
+			</gloss>
+			<enwordnet>
+				<sense key="arrange%2:36:03::"/>
+				<sense key="stage%2:36:01::"/>
+				<sense key="plan%2:36:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="verb">
+			<gloss>
+				membuat atau mengarang (kamus, ensiklopedia, puisi, lagu, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="compose%2:36:01::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="25">
+    <text>memecahkan</text>
+    <senses>
+    	<sense sid="1" pos="verb">
+    		<gloss>
+    			merusakkan hingga pecah
+    		</gloss>
+    		<enwordnet>
+    			<sense key="break%2:30:10::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="2" pos="verb">
+    		<gloss>
+    			mengatasi; menyelesaikan
+    		</gloss>
+    		<enwordnet>
+    			<sense key="solve%2:31:00::"/>
+    			<sense key="figure_out%2:31:00::"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="3" pos="verb">
+			<gloss>
+				mengungguli (prestasi yang ada sebelumnya)
+			</gloss>
+			<enwordnet>
+				<sense key="break%2:33:00::"/>
+				<sense key="better%2:33:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="verb">
+    		<gloss>
+    			memekakkan; memusingkan
+    		</gloss>
+    	</sense>
+    </senses>
+  </word>
+  <word wid="26">
+    <text>mendorong</text>
+    <senses>
+    	<sense sid="1" pos="verb">
+    		<gloss>
+    			memindahkan dengan tenaga; menolak dari bagian belakang atau bagian depan
+    		</gloss>
+    		<enwordnet>
+    			<sense key="push%2:38:00::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="2" pos="verb">
+    		<gloss>
+    			mendesak atau memaksa supaya berbuat sesuatu
+    		</gloss>
+    		<enwordnet>
+				<sense key="push%2:32:01::"/>
+				<sense key="urge%2:32:00::"/>
+    		</enwordnet>
+    	</sense>
+    </senses>
+  </word>
+  <word wid="27">
+    <text>menjaga</text>
+    <senses>
+		<sense sid="1" pos="verb">
+			<gloss>
+				 mempertahankan agar kondisi, posisi, atau aktivitas tetap berjalan
+			</gloss>
+			<enwordnet> 
+				<sense key="keep%2:42:00::"/>
+				<sense key="maintain%2:42:00::"/>
+				<sense key="hold%2:42:00::"/>
+				<sense key="preserve%2:42:00::"/>
+				<sense key="carry_on%2:42:00::"/>
+			</enwordnet>
+	  	</sense>
+		<sense sid="2" pos="verb">
+			<gloss>
+				mengiringi untuk melindungi dari bahaya; mengawal
+			</gloss>
+			<enwordnet> 
+				<sense key="guard%2:33:00"/>
+				<sense key="ward%2:33:00"/>
+			</enwordnet>
+	  	</sense>
+		<sense sid="3" pos="verb">
+			<gloss>
+				menjadi penjaga; bertanggung jawab mengurus
+			</gloss>
+			<enwordnet> 
+				<sense key="keep%2:40:01::"/>
+			</enwordnet>
+	  	</sense>
+	  	<sense sid="4" pos="verb">
+			<gloss>
+				merawat dan mempertahankan agar tidak rusak atau hancur
+			</gloss>
+			<enwordnet> 
+				<sense key="keep_up%2:40:00::"/>
+				<sense key="maintain%2:40:00::"/>
+				<sense key="conserve%2:40:00::"/>
+				<sense key="preserve%2:40:00::"/>
+			</enwordnet>
+	  	</sense>
+    </senses>
+  </word>
+  <word wid="28">
+    <text>mengejar</text>
+    <senses>
+    	<sense sid="1" pos="verb">
+    		<gloss>
+				menyusul dengan berlari; memburu
+			</gloss>
+    		<enwordnet>
+    			<sense key="chase%2:38:00::"/>
+				<sense key="trail%2:38:00::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="2" pos="verb">
+    		<gloss>
+				berusaha keras hendak mencapai (mendapatkan dan sebagainya); menginginkan dengan sungguh-sungguh
+			</gloss>
+    		<enwordnet>
+    			<sense key="pursue%2:35:00::"/>
+				<sense key="go_after%2:35:00::"/>
+				<sense key="quest_for%2:35:00::"/>
+    		</enwordnet>
+    	</sense>
+    </senses>
+  </word>
+  <word wid="29">
+    <text>mengeluarkan</text>
+    <senses>
+        <sense sid="1" pos="verb">
+            <gloss>
+                membawa (menyebabkan dan sebagainya) keluar; memindahkan sesuatu dari sebelah dalam ke sebelah luar
+            </gloss>
+            <enwordnet> 
+				<sense key="draw%2:38:01::"/>
+				<sense key="pull%2:38:03::"/>
+				<sense key="pull_out%2:38:03::"/>
+				<sense key="get_out%2:38:02::"/>
+				<sense key="take_out%2:38:10::"/>
+				<sense key="take_out%2:35:01::"/>
+            </enwordnet>
+        </sense>
+		<sense sid="2" pos="verb">
+			<gloss>
+				menghasilkan sesuatu produk konkrit atau abstrak untuk distribusi publik (misalnya menerbitkan, meluncurkan, dan sebagainya) 
+			</gloss>
+			<enwordnet> 
+				<sense key="publish%2:32:00::"/>
+				<sense key="bring_out%2:32:00::"/>
+				<sense key="put_out%2:32:00::"/>
+				<sense key="issue%2:32:00::"/>
+				<sense key="release%2:32:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="verb">
+			<gloss>
+				memecat (melepas) pegawai (murid dan sebagainya); memberhentikan dari pekerjaan (sekolah, dan sebagainya)
+			</gloss>
+			<enwordnet> 
+				<sense key="displace%2:41:04::"/>
+				<sense key="fire%2:41:00::"/>
+				<sense key="dismiss%2:41:00::"/>
+				<sense key="force_out%2:41:00::"/>
+				<sense key="terminate%2:41:01::"/>
+			</enwordnet>
+		</sense>
+		 <sense sid="4" pos="verb">
+			<gloss>
+				membelanjakan
+			</gloss>
+			<enwordnet> 
+				<sense key="spend%2:40:00::"/>
+				<sense key="expend%2:40:00::"/>
+				<sense key="drop%2:40:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="5" pos="verb">
+			<gloss>
+				melahirkan perasaan, pendapat, dan sebagainya; mengekspresikan sesuatu
+			</gloss>
+			<enwordnet> 
+				<sense key="utter%2:32:02::"/>
+				<sense key="emit%2:32:00::"/>
+				<sense key="let_out%2:32:02::"/>
+				<sense key="let_loose%2:32:00::"/>
+			</enwordnet>
+		</sense>
+        <sense sid="6" pos="verb">
+			<gloss>
+				mengeluarkan substansi berupa cairan, gas, atau kandungan tertentu
+			</gloss>
+			<enwordnet> 
+				<sense key="exhaust%2:29:02::"/>
+				<sense key="discharge%2:29:00::"/>
+				<sense key="expel%2:29:00::"/>
+				<sense key="eject%2:29:00::"/>
+				<sense key="release%2:29:01::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="30">
+    <text>membawa</text>
+    <senses>
+		<sense sid="1" pos="verb">
+			<gloss>
+				memegang atau mengangkat sesuatu sambil berjalan atau bergerak dari satu tempat ke tempat lain
+			</gloss>
+			<enwordnet>
+				<sense key="carry%2:42:01::"/>
+				<sense key="pack%2:42:00::"/>
+				<sense key="take%2:42:10::"/>
+				<sense key="bring%2:38:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="verb">
+			<gloss>
+				mengangkut; memuat; memindahkan; mengirimkan
+			</gloss>
+			<enwordnet>
+				<sense key="carry%2:35:02::"/>
+				<sense key="transport%2:35:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="verb">
+			<gloss>
+				mengajak pergi; pergi bersama-sama
+			</gloss>
+			<enwordnet>
+				<sense key="bring%2:35:02::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="verb">
+			<gloss>
+				menyebabkan seseorang atau sesuatu berubah ke situasi atau kondisi tertentu, melakukan aktivitas tertentu
+			</gloss>
+			<enwordnet>
+				<sense key="bring%2:35:04::"/>
+				<sense key="cause%2:32:00::"/>
+				<sense key="lead%2:32:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="5" pos="verb">
+			<gloss>
+				mendatangkan; mengakibatkan; menimbulkan sesuatu sebagai akibat
+			</gloss>
+			<enwordnet>
+				<sense key="bring%2:36:00::"/>
+				<sense key="make_for%2:36:00::"/>
+				<sense key="wreak%2:36:00::"/>
+				<sense key="cause%2:36:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="6" pos="verb">
+			<gloss>
+				menarik atau melibatkan (dalam urusan, perkara, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="involve%2:42:04::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="7" pos="verb">
+			<gloss>
+				menyampaikan sesuatu; menjadi alat perantara
+			</gloss>
+			<enwordnet>
+				<sense key="carry%2:38:03::"/>
+				<sense key="convey%2:38:02::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="31">
+    <text>menerima</text>
+    <senses>
+        <sense sid="1" pos="verb">
+            <gloss>
+				mengambil sesuatu yang diberikan, dikirimkan, dan sebagainya
+			</gloss>
+            <enwordnet>
+                <sense key="receive%2:40:00::"/>
+            </enwordnet>
+        </sense>
+		<sense sid="2" pos="verb">
+            <gloss>
+				mendapat; memperoleh sesuatu hal yang bersifat abstrak
+			</gloss>
+            <enwordnet>
+                <sense key="receive%2:30:01::"/>
+				<sense key="get%2:30:03::"/>
+				<sense key="obtain%2:30:00::"/>
+            </enwordnet>
+        </sense>
+		<sense sid="3" pos="verb">
+            <gloss>
+				membenarkan; menganggap tepat
+			</gloss>
+            <enwordnet>
+                <sense key="accept%2:31:00::"/>
+            </enwordnet>
+        </sense>
+		<sense sid="4" pos="verb">
+            <gloss>
+				merespons; bereaksi positif
+			</gloss>
+            <enwordnet>
+                <sense key="accept%2:32:00::"/>
+				<sense key="consent%2:32:00::"/>
+				<sense key="go_for%2:32:00::"/>
+				<sense key="welcome%2:32:00::"/>
+				<sense key="receive%2:32:00::"/>
+            </enwordnet>
+        </sense>
+		<sense sid="5" pos="verb">
+            <gloss>
+				menerima apa yang ditawarkan; mengesahkan; menyetujui (usul, anjuran, dan sebagainya); meluluskan atau mengabulkan (permintaan dan sebagainya)
+			</gloss>
+            <enwordnet>
+                <sense key="accept%2:40:00::"/>
+				<sense key="take%2:40:05::"/>
+				<sense key="have%2:40:05::"/> 
+            </enwordnet>
+        </sense>
+        <sense sid="6" pos="verb">
+            <gloss>
+				mengizinkan (masuk menjadi anggota, murid, pegawai, dan sebagainya)
+			</gloss>
+            <enwordnet>
+                <sense key="accept%2:40:03::"/>
+				<sense key="admit%2:40:00::"/>
+				<sense key="take_on%2:40:00::"/>
+            </enwordnet>
+        </sense>
+    </senses>
+  </word>
+  <word wid="32">
+	<text>mengisi</text>
+	<senses>
+		<sense sid="1" pos="verb">
+			<gloss>
+				memberi isi; memasukkan sesuatu ke dalam
+			</gloss>
+			<enwordnet>
+				<sense key="fill%2:30:01::"/>
+				<sense key="fill_up%2:30:00::"/>
+				<sense key="load%2:35:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="verb">
+			<gloss>
+				melakukan sesuatu untuk merintang waktu; aksi selama masa tertentu
+			</gloss>
+			<enwordnet>
+				<sense key="spend%2:42:00::"/>
+				<sense key="pass%2:42:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="verb">
+			<gloss>
+				melengkapi; menambahkan sesuatu (informasi dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="fill_out%2:32:00::"/>
+				<sense key="fill_in%%2:32:02::"/>
+				<sense key="complete%%2:32:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="verb">
+			<gloss>
+				menempati posisi atau peran
+			</gloss>
+			<enwordnet>
+				<sense key="fill%2:41:00::"/>
+				<sense key="take%2:41:00::"/>
+				<sense key="occupy%2:41:04::"/>
+			</enwordnet>
+		</sense>
+	</senses>
+  </word>
+  <word wid="33">
+	<text>menangkap</text>
+	<senses>
+		<sense sid="1" pos="verb">
+			<gloss> 
+				memegang sesuatu yg bergerak (misalnya barang yang dilemparkan); memegang dengan tangan atau dengan alat
+			</gloss>
+			<enwordnet>
+				<sense key="catch%2:35:00::"/>
+				<sense key="grab%2:35:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="verb">
+			<gloss> 
+				mendapatkan sesuatu setelah pengejaran, perburuan, dsb (binatang, penjahat, dsb) 
+			</gloss>
+			<enwordnet>
+				<sense key="catch%2:35:01::"/>
+				<sense key="capture%2:35:01::"/>
+				<sense key="get%2:35:09::"/>
+				<sense key="catch%2:35:03::"/>
+				<sense key="capture%2:35:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="verb">
+			<gloss>
+				mendapati, menemukan secara tidak sengaja (orang berbuat jahat, kesalahan, rahasia, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="catch%2:31:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="verb">
+			<gloss>
+				berhasil merepresentasikan atau mengekspresikan (suara, siaran radio, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="capture%2:36:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="5" pos="verb">
+			<gloss>
+				dapat memahami; mencerap maksud
+			</gloss>
+			<enwordnet>
+				<sense key="understand%2:31:00::"/>
+				<sense key="catch%2:31:03::"/>
+				<sense key="get%2:31:09::"/>
+			</enwordnet>
+		</sense>
+	</senses>
+  </word>
+  <word wid="34">
+	<text>lingkungan</text>
+	<senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				semua yang memengaruhi pertumbuhan makhluk hidup
+			</gloss>
+			<enwordnet>
+				<sense key="environment%1:15:00::"/>
+				<sense key="surrounding%1:15:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				daerah (kawasan dan sebagainya) yang termasuk di dalamnya
+			</gloss>
+			<enwordnet>
+				<sense key="neighboorhood%1:15:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				golongan; kalangan; kumpulan orang
+			</gloss>
+			<enwordnet>
+				<sense key="circle%1:14:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="35">
+    <text>harapan</text>
+    <senses>
+        <sense sid="1" pos="noun">
+            <gloss>
+				sesuatu yang (dapat) diharapkan, mungkin terjadi
+			</gloss>
+            <enwordnet>
+                <sense key="chance%1:26:00::"/>
+                <sense key="possibility%1:26:00::"/>
+            </enwordnet>
+        </sense>
+        <sense sid="2" pos="noun">
+            <gloss>
+				keinginan supaya menjadi kenyataan
+			</gloss>
+            <enwordnet>
+                <sense key="hope%1:12:00::"/>
+                <sense key="wish%1:12:00::"/>
+            </enwordnet>
+        </sense>
+        <sense sid="3" pos="noun">
+            <gloss>
+				orang atau sesuatu yang diharapkan atau dipercaya; tumpuan
+			</gloss>
+            <enwordnet>
+                <sense key="hope%1:18:00::"/>
+            </enwordnet>
+        </sense>
+    </senses>
+  </word>
+  <word wid="36">
+    <text>jaringan</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				susunan sel-sel khusus yang sama pada tubuh dan bersatu dalam menjalankan fungsi biologis tertentu
+			</gloss>
+			<enwordnet>
+				<sense key="tissue%1:08:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				sekelompok komputer atau perangkat terkait yang dihubungkan dengan fasilitas komunikasi
+			</gloss>
+			<enwordnet>
+				<sense key="network%1:06:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				sistem yang menghubungkan orang atau sesuatu
+			</gloss>
+			<enwordnet>
+				<sense key="network%1:14:00::"/>
+				<sense key="web%1:14:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="37">
+	<text>pembagian</text>
+	<senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				proses, cara, perbuatan membagi atau membagikan
+			</gloss>
+			<enwordnet>
+				<sense key="division%1:04:02::"/>
+				<sense key="partition%1:04:00::"/>
+				<sense key="partitioning%1:04:00::"/>
+				<sense key="segmentation%1:04:00::"/>
+				<sense key="sectionalization%1:04:00::"/>
+				<sense key="sectionalisation%1:04:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				hitungan membagi
+			</gloss>
+			<enwordnet>
+				<sense key="division%1:04:01::"/>
+			</enwordnet>
+		</sense>
+	</senses>
+  </word>
+  <word wid="38">
+    <text>kabur</text>
+		<senses>
+		<sense sid="1" pos="adjective">
+			<gloss> 
+				samar, berkabut, tidak jelas terkait penglihatan 
+			</gloss>
+			<enwordnet>
+				<sense key="hazy%3:00:00:indistinct:00"/>
+				<sense key="fuzzy%3:00:00:indistinct:00"/>
+				<sense key="vague%3:00:00:indistinct:00"/>
+				<sense key="blurred%3:00:00:indistinct:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="adjective">
+			<gloss> 
+				tidak jelas diekspresikan, tidak dapat dipahami dengan baik 
+			</gloss>
+			<enwordnet>
+				<sense key="vague%3:00:00:unclear:00"/>
+				<sense key="obscure%3:00:00:unclear:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="verb">
+			<gloss> 
+				berlari cepat-cepat; melarikan diri; meninggalkan tugas (pekerjaan, keluarga, dan sebagainya) tanpa pamit; menghilang
+			</gloss>
+			<enwordnet>
+				<sense key="run_away%2:38:00::"/>
+				<sense key="escape%2:38:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="39">
+    <text>baru</text>
+    <senses>
+		<sense sid="1" pos="adjective">
+			<gloss>
+				belum lama (dibeli, dimiliki, dipakai); baru saja selesai dibuat atau ditemukan; baru dimulai
+			</gloss>
+			<enwordnet>
+				<sense key="new%3:00:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="adverb">
+			<gloss>
+				belum lama antaranya; baru saja
+			</gloss>
+			<enwordnet>
+				<sense key="new%4:02:00::"/>
+				<sense key="newly%4:02:00::"/>
+				<sense key="fresh%4:02:00::"/>
+				<sense key="freshly%4:02:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="adverb">
+			<gloss>
+				kemudian; setelah itu
+			</gloss>
+			<enwordnet>
+				<sense key="then%4:02:00::"/>
+				<sense key="so%4:02:09::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="40">
+    <text>dalam</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				bagian yang di dalam, bukan bagian luar
+			</gloss>
+			<enwordnet>
+				<sense key="inside%1:15:00::"/>
+				<sense key="inside%1:15:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="adjective">
+			<gloss>
+				posisinya di dalam atau dekat dengan pusat 
+			</gloss>
+			<enwordnet>
+				<sense key="inner%3:00:00::"/>
+				<sense key="inside%3:00:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="adjective">
+			<gloss>
+				yang tidak tampak dari luar
+			</gloss>
+			<enwordnet> 
+				<sense key="internal%3:00:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="adjective">
+			<gloss>
+				jauh ke bawah (dari permukaan); jauh masuk ke tengah (dari tepi)
+			</gloss>
+			<enwordnet> 
+				<sense key="deep%3:00:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="5" pos="adjective">
+			<gloss>
+				sampai ke lubuk hati; betul-betul terasakan di hati (tentang cinta, dendam, penderitaan, sakit hati
+			</gloss>
+			<enwordnet>
+				<sense key="deep%3:00:00:intense:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="6" pos="adjective">
+			<gloss>
+				paham benar-benar (tentang ilmu pengetahuan dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="deep%3:00:00:profound:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="7" pos="preposition">
+			<gloss>
+				kata depan untuk menandai benda nyata yang mengandung isi, memuat sesuatu
+			</gloss>
+		</sense>
+		<sense sid="8" pos="preposition">
+			<gloss>
+				kata depan untuk menandai sesuatu abstrak yang dianggap mengandung isi
+			</gloss>
+		</sense>
+		<sense sid="9" pos="preposition">
+			<gloss>
+				kata depan untuk menandai kejadian, peristiwa, aktivitas yang melibatkan atau mengikutsertakan orang, benda, hal
+			</gloss>
+		</sense>
+		<sense sid="10" pos="preposition">
+			<gloss>
+				kata depan untuk menandai waktu dalam jangka tertentu
+			</gloss>
+		</sense>
+		<sense sid="11" pos="preposition">
+			<gloss>
+				kata depan untuk menandai tujuan, terkait hal yang ingin dicapai
+			</gloss>
+		</sense>
+		<sense sid="12" pos="preposition">
+			<gloss>
+				kata depan untuk menandai bentuk, format, satuan atau ukuran
+			</gloss>
+		</sense>
+    </senses>
+  </word>  
+  <word wid="41">
+    <text>ketat</text>
+    <senses>
+	  <sense sid="1" pos="adjective">
+		<gloss>
+			sempit (pakaian)
+		</gloss>
+		<enwordnet> 
+			<sense key="tight%3:00:01::"/>
+		</enwordnet>
+	  </sense>
+      <sense sid="2" pos="adjective">
+		<gloss>
+			tetap tidak dapat diubah, tanpa kecuali (tentang perkataan, janji, perintah, peraturan, dan sebagainya)
+		</gloss>
+		<enwordnet>
+			<sense key="tight%3:00:00:demanding:01"/>
+			<sense key="rigorous%3:00:00:demanding:01"/>
+			<sense key="stringent%3:00:00:demanding:01"/>
+		</enwordnet>
+	  </sense>
+	  <sense sid="3" pos="adjective">
+		<gloss>
+			teliti, cermat, dan rapi (tentang penjagaan)
+		</gloss>
+		<enwordnet>
+			<sense key="strict%3:00:00::"/>
+			<sense key="rigorous%3:00:00:exact:00"/>
+		</enwordnet>
+	  </sense>
+	  <sense sid="4" pos="adjective">
+        <gloss>
+          sama kuat, alot (tentang pertandingan, kompetisi, dan sebagainya)
+        </gloss>
+        <enwordnet>
+          <sense key="close%3:00:00:equal:00"/>
+          <sense key="tight%3:00:00:equal:00"/>
+        </enwordnet>
+      </sense>
+    </senses>
+  </word>
+  <word wid="42">
+	<text>kunci</text>
+	<senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				alat yang terbuat dari logam, yang mana mekanisme penguncian dijalankan ketika dimasukkan ke induk kunci (untuk mengancing pintu, peti, dan sebagainya; menjalankan mesin; membuka sekrup)
+			</gloss>
+			<enwordnet>
+				<sense key="key%1:06:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				jawaban yang disediakan atas pertanyaan ujian dan sebagainya
+			</gloss>
+			<enwordnet>
+				<sense key="key%1:10:03::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				alat untuk mencapai suatu maksud (seperti membongkar rahasia, memecahkan masalah, menentukan kalah menang, atau berhasil tidaknya sesuatu) 
+			</gloss>
+			<enwordnet>
+				<sense key="key%1:09:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="noun">
+			<gloss> 
+				runtunan nada yang berhubungan satu dan lainnya (berdasar pada suatu nada utama); lambang yang digunakan untuk menunjukkan letak not tertentu pada balok not
+			</gloss>
+			<enwordnet>
+				<sense key="key%1:10:00::"/>
+				<sense key="chord%1:10:00::"/>
+				<sense key="tonality%1:10:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="5" pos="verb">
+			<gloss>
+				perintah untuk mengunci pintu, jendela, dan sebagainya
+			</gloss>
+			<enwordnet>
+				<sense key="lock%2:35:00::"/>
+			</enwordnet>
+	  	</sense>
+		<sense sid="6" pos="adjective">
+			<gloss>
+				penting, sentral 
+			</gloss>
+			<enwordnet>
+				<sense key="key%3:10:00:important:00"/>
+				<sense key="central%3:10:00:important:00"/>
+				<sense key="fundamental%3:10:00:important:00"/>
+				<sense key="cardinal%3:10:00:important:00"/>
+			</enwordnet>
+		</sense>
+	</senses>
+  </word>
+  <word wid="43">
+    <text>tengah</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				tempat (arah, titik) di antara dua tepi (batas); daerah yang bukan pinggiran; pusat
+			</gloss>
+			<enwordnet>
+				<sense key="center%1:15:01::"/>
+				<sense key="centre%1:15:01::"/>
+				<sense key="middle%1:15:00::"/>
+				<sense key="heart%1:15:00::"/>
+				<sense key="eye%1:15:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				sela-sela; antara (orang banyak, kumpulan, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="midst%1:15:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				paruh; perdua; waktu di antara permulaan dan akhir suatu periode
+			</gloss>
+			<enwordnet>
+				<sense key="half%1:23:00::"/>
+				<sense key="middle%1:28:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="adverb">
+			<gloss>
+				sedang
+			</gloss>
+		</sense>
+    </senses>
+  </word>
+  <word wid="44">
+    <text>atas</text>
+    <senses>
+    	<sense sid="1" pos="noun">
+    		<gloss>
+    			bagian yang lebih tinggi
+    		</gloss>
+    		<enwordnet>
+    			<sense key="top%1:15:01"/>
+				<sense key="top%1:15:02"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="2" pos="noun">
+    		<gloss>
+    			permukaan, bagian paling atas 
+    		</gloss>
+    		<enwordnet>
+    			<sense key="top%1:15:00"/>
+				<sense key="upside%1:15:00"/>
+				<sense key="upper_side%1:15:00"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="3" pos="noun">
+    		<gloss>
+    			posisinya di atas permukaan (bagian paling atas) benda atau tempat lainnya, posisi tidak menempel
+    		</gloss>
+    	</sense>
+		<sense sid="4" pos="noun">
+			<gloss>
+				lebih, melebihi
+			</gloss>
+		</sense>
+		<sense sid="5" pos="adjective">
+			<gloss>
+				berada pada posisi paling tinggi
+			</gloss>
+			<enwordnet>
+				<sense key="top%3:00:00::"/>
+				<sense key="upper%3:00:00:high:01"/>
+			</enwordnet>
+		</sense>
+		<sense sid="6" pos="preposition">
+			<gloss> 
+				kata depan yang menandai sesuatu yang dikenai peristiwa, aktivitas (terhadap; terkait)
+			</gloss>
+		</sense>
+		<sense sid="7" pos="preposition">
+			<gloss> 
+				kata depan yang menandai sesuatu yang menjadi penyerta, penyebab, hal yang melatarbelakangi (disebabkan oleh; karena)
+			</gloss>
+		</sense>
+		<sense sid="8" pos="preposition">
+			<gloss> 
+				dari; menjadi (misalnya terdiri atas, dsb)
+			</gloss>
+		</sense>
+	</senses>	
+  </word>
+  <word wid="45">
+	<text>dasar</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				alas; bagian terbawah; lapisan terbawah
+			</gloss>
+			<enwordnet>
+				<sense key="bottom%1:15:00::"/>
+				<sense key="base%1:17:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				fondasi; pokok; basis
+			</gloss>
+			<enwordnet>
+				<sense key="basis%1:09:00"/>
+				<sense key="foundation%1:09:00"/>
+				<sense key="base%1:09:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="adjective">
+			<gloss>
+				berada pada posisi dasar, terendah, paling bawah
+			</gloss>
+			<enwordnet>
+				<sense key="bottom%3:00:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="adjective">
+			<gloss>
+				berfungsi sebagai dasar
+			</gloss>
+			<enwordnet>
+				<sense key="base%3:00:00:basic:00"/>
+				<sense key="basic%3:00:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="46">
+    <text>rapat</text>
+    <senses>
+		<sense sid="1" pos="noun">
+    		<gloss>
+				pertemuan (kumpulan) untuk membicarakan sesuatu; sidang; majelis
+			</gloss>
+    		<enwordnet>
+    			<sense key="meeting%1:14:00::"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="2" pos="adjective">
+    		<gloss>
+				hampir tidak berantara; dekat sekali (tidak renggang); berhampiran; dekat sekali
+			</gloss>
+    		<enwordnet>
+    			<sense key="tight%3:00:00:compact:00"/>
+    		</enwordnet>
+    	</sense>
+		<sense sid="3" pos="adjective">
+    		<gloss>
+				tertutup benar-benar hingga tidak bercelah
+			</gloss>
+    		<enwordnet>
+    			<sense key="tight%3:00:00:invulnerable:00"/>
+    		</enwordnet>
+    	</sense>
+    </senses>
+  </word>
+  <word wid="47">
+    <text>coklat</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				makanan, minuman, atau produk olahan bubuk coklat
+			</gloss>
+			<enwordnet>
+				<sense key="chocolate%1:13:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+            <gloss>
+				tanaman kakao (pohon, buah, atau biji)
+            </gloss>
+			<enwordnet> 
+				<sense key="cacao%1:20:00::"/>
+            </enwordnet>
+        </sense>    
+		<sense sid="3" pos="adjective">
+			<gloss> 
+				warna merah kehitam-hitaman seperti sawo matang  
+			</gloss>
+			<enwordnet>
+				<sense key="brown%3:00:00::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="48">
+    <text>cerah</text>
+    <senses>
+		<sense sid="1" pos="adjective">
+			<gloss>
+				terang, memancarkan cahaya (tentang hari, bulan, warna)
+			</gloss>
+			<enwordnet>
+				<sense key="bright%3:00:00::"/>
+				<sense key="bright%3:00:00:colorful:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="adjective">
+			<gloss>
+				berseri, bahagia (tentang muka)
+			</gloss>
+			<enwordnet>
+				<synonym text="bright%3:00:00:happy:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="adjective">
+			<gloss>
+				menjanjikan, lebih baik di masa mendatang
+			</gloss>
+			<enwordnet>
+				<sense key="bright%3:00:00:auspicious:00"/>
+				<sense key="hopeful%3:00:00:auspicious:00"/>
+				<sense key="promising%3:00:00:auspicious:00"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="49">
+    <text>panas</text>
+    <senses>
+		<sense sid="1" pos="noun">
+            <gloss>
+				kalor; rasa seperti berada di dekat api
+			</gloss>
+            <enwordnet>
+                <sense key="heat%1:19:00::"/>
+            </enwordnet>
+        </sense>
+		<sense sid="2" pos="noun">
+            <gloss>
+				demam; suhu tubuh lebih tinggi dari biasanya
+			</gloss>
+            <enwordnet>
+                <sense key="fever%1:26:00"/>
+            </enwordnet>
+        </sense>
+        <sense sid="3" pos="noun">
+            <gloss>
+				musim
+			</gloss>
+            <enwordnet>
+                <sense key="summer%1:28:00"/>
+            </enwordnet>
+        </sense>
+		<sense sid="4" pos="adjective">
+            <gloss>
+				terasa seperti terbakar atau berada di dekat api
+			</gloss>
+            <enwordnet>
+                <sense key="hot%3:00:01"/>
+            </enwordnet>
+        </sense>
+        <sense sid="5" pos="adjective">
+			<gloss>
+				genting; tegang; tidak menyenangkan (terkait perasaan, situasi, aktivitas, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense key="hot%3:00:00:violent:00"/>
+				<sense key="hot%3:00:00:unpleasant:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="6" pos="adjective">
+			<gloss>
+				erotis, seksi
+			</gloss>
+			<enwordnet>
+				<sense key="hot%3:00:00:sexy:00"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="50">
+    <text>cabang</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				satuan usaha, lembaga, perkumpulan, kantor, dan sebagainya yang merupakan bagian dari satuan yang lebih besar
+			</gloss>
+			<enwordnet>
+				<sense text="branch%1:14:00::"/>
+				<sense text="subdivision%1:14:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="noun">
+			<gloss>
+				bagian batang kayu yang tumbuh dari pokok atau dahan (cabang yang besar disebut dahan dan cabang yang kecil disebut ranting)
+			</gloss>
+			<enwordnet>
+				<sense key="branch%1:20:00::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="noun">
+			<gloss>
+				bagian yang terpecah atau terbelah dari pokoknya (sungai, jalan, dan sebagainya)
+			</gloss>
+			<enwordnet>
+				<sense text="branch%1:17:01::"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="51">
+    <text>tinggi</text>
+    <senses>
+		<sense sid="1" pos="adjective">
+			<gloss>
+				ketinggian; ukuran, dimensi vertikal
+			</gloss> 
+			<enword>
+				<sense key="height%1:07:00::"/>
+				<sense key="tallness%1:07:00::"/>
+			</enword>
+		</sense>
+		<sense sid="2" pos="adjective">
+			<gloss>
+				jangkung, panjang (tentang badan, bangunan, dsb)
+			</gloss>
+			<enword>
+				<sense key="tall%3:00:00::"/>
+			</enword>
+		</sense>		
+		<sense sid="3" pos="adjective">
+			<gloss> 
+				jauh jaraknya dari posisi sebelah bawah; sudah agak jauh ke atas
+			</gloss> 
+			<enword>
+				<sense key="high%3:00:01::"/>
+			</enword>
+		</sense>
+		<sense sid="4" pos="adjective">
+			<gloss>
+				luhur; mulia
+			</gloss>
+			<enword>
+				<sense key="high%3:00:00:elated:00"/>
+				<sense key="elevated%3:00:00:noble:01"/>
+			</enword>
+		</sense>
+		<sense sid="5" pos="adjective">
+			<gloss> 
+				berada di atas; posisinya lebih dari yang lain (tentang tingkatan, pangkat, derajat, mutu, dan sebagainya) 
+			</gloss>
+			<enword>
+				<sense key="high%3:00:00:superior:01"/>
+				<sense key="eminent%3:00:00:superior:01"/>
+			</enword>
+		</sense>
+		<sense sid="6" pos="adjective">
+			<gloss> 
+				kuantitas atau intensitas lebih dari rata-rata; banyak (tentang harga, nilai), sudah lanjut (tentang umur)
+			</gloss> 
+			<enword>
+				<sense key="high%3:00:02::"/>
+			</enword>
+		</sense>
+		<sense sid="7" pos="adjective">
+			<gloss>
+				sudah maju (tentang kecerdasan, peradaban, pengetahuan, dan sebagainya)
+			</gloss>
+			<enword>
+				<sense key="advanced%3:00:02:high:02"/>
+				<sense key="advanced%3:00:00:high-tech:00"/>
+			</enword>
+		</sense>
+    </senses>
+  </word>
+  <word wid="52">
+	<text>berat</text>
+    <senses>
+		<sense sid="1" pos="noun">
+            <gloss> 
+				bobot; timbangan; besarnya tekanan suatu benda apabila diangkat, ditimbang, dan sebagainya
+			</gloss>
+            <enwordnet>
+                <sense key="weight%1:07:00::"/>
+            </enwordnet>
+        </sense>
+		<sense sid="2" pos="adjective">
+            <gloss>
+				besar bobotnya; besar ukuran timbangannya
+			</gloss>
+            <enwordnet>
+                <sense key="heavy%3:00:01::"/>
+                <sense key="weighty%3:00:00::"/>
+            </enwordnet>
+        </sense>
+		<sense sid="3" pos="adjective">
+            <gloss> 
+				serius; parah (tentang luka penyakit dan sebagainya) 
+			</gloss>
+            <enwordnet>
+                <sense key="severe%3:00:00:intense:00"/>
+				<sense key="terrible%3:00:00:intense:00"/>
+				<sense key="wicked%3:00:00:intense:00"/>
+            </enwordnet>
+        </sense>
+        <sense sid="4" pos="adjective">
+            <gloss> 
+				sulit (susah, sukar) melakukannya; melebihi ukuran (kekuatan, kemampuan, kesanggupan, dan sebagainya) 
+			</gloss>
+            <enwordnet>
+                <sense key="rugged%3:00:00:difficult:00"/>
+				<sense key="tough%3:00:01:difficult:00"/>
+			</enwordnet>
+        </sense>
+        <sense sid="5" pos="adjective">
+            <gloss> 
+				sukar digerakkan (tentang anggota badan dan sebagainya) 
+			</gloss>
+            <enwordnet>
+                <sense key="heavy%3:00:01:effortful:00"/>
+            </enwordnet>
+        </sense>
+        <sense sid="6" pos="adjective">
+            <gloss> 
+				kuantitasnya besar untuk ukuran selain bobot (terkait kadar, intensitas, dsb)
+			</gloss>
+        </sense>
+    </senses>
+  </word>
+  <word wid="53">
+	<text>asing</text>
+	<senses>
+		<sense sid="1" pos="adjective">
+			<gloss>
+				aneh; tidak biasa
+			</gloss>
+			<enwordnet>
+				<sense key="strange%3:00:00::"/>
+				<sense key="unusual%3:00:02::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="2" pos="adjective">
+			<gloss>
+				datang dari luar (negeri, daerah, lingkungan)
+			</gloss>
+			<enwordnet>
+				<sense key="foreign%3:00:01::"/>
+				<sense key="strange%3:00:01::"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="adjective">
+			<gloss>
+				tersendiri; terpisah sendiri; terpencil
+			</gloss>
+			<enwordnet>
+				<sense key="alone%3:00:00:unaccompanied:00"/>
+				<sense key="lone%3:00:00:unaccompanied:00"/>
+				<sense key="lonely%3:00:00:unaccompanied:00"/>
+				<sense key="solitary%3:00:00:unaccompanied:00"/>
+			</enwordnet>
+		</sense>
+	</senses>
+  </word>
+  <word wid="54">
+    <text>besar</text>
+    <senses>
+		<sense sid="1" pos="noun">
+			<gloss>
+				besaran
+			</gloss>
+		</sense>
+		<sense sid="2" pos="adjective">
+			<gloss>
+				lebih dari ukuran sedang; lawan dari kecil
+			</gloss>
+			<enwordnet> 
+				<sense key="large%3:00:00"/>
+				<sense key="big%3:00:01"/>
+			</enwordnet>
+		</sense>
+		<sense sid="3" pos="adjective">
+			<gloss>
+				banyak; tidak sedikit (tentang jumlah, nominal)
+			</gloss>
+			<enwordnet>
+				<sense key="huge%3:00:01:large:00"/>
+				<sense key="immense%3:00:01:large:00"/>
+				<sense key="vast%3:00:00:large:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="4" pos="adjective">
+			<gloss>
+				hebat; mulia; berkuasa
+			</gloss>
+			<enwordnet>
+				<sense key="big%3:00:00:conspicuous:00"/>
+				<sense key="large%3:00:00:conspicuous:00"/>
+				<sense key="prominent%3:00:02:conspicuous:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="5" pos="adjective">
+			<gloss>
+				penting (berguna)
+			</gloss>
+			<enwordnet>
+				<sense key="big%3:00:00:important:00"/>
+			</enwordnet>
+		</sense>
+		<sense sid="6" pos="adjective">
+			<gloss>
+				menjadi dewasa; lebih dewasa daripada sebelumnya
+			</gloss>
+			<enwordnet>
+				<sense key="adult%3:00:00:mature:01"/>
+				<sense key="big%3:00:00:mature:01"/>
+				<sense key="grown%3:00:00:mature:01"/>
+			</enwordnet>
+		</sense>
+    </senses>
+  </word>
+  <word wid="55">
+    <text>lebat</text>
+    <senses>
+    	<sense sid="1" pos="adjective">
+    		<gloss>
+    			banyak, tebal, dan rapat (tentang rambut, daun, buah, hutan, dan sebagainya)
+    		</gloss>
+    		<enwordnet>
+    			<sense key="dense%3:00:00:impenetrable:00"/>
+    			<sense key="thick%3:00:00:impenetrable:00"/>
+    		</enwordnet>
+    	</sense>
+    	<sense sid="2" pos="adjective">
+    		<gloss>
+    			deras dan banyak (tentang hujan, embun, dan sebagainya)
+    		</gloss>
+    		<enwordnet>
+    			<sense key="heavy%3:00:03::"/>
+    		</enwordnet>
+    	</sense>
+    </senses>
+  </word>
+</corpus>
