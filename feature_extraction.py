@@ -70,8 +70,10 @@ class Features:
             for i in range(word_index-3, word_index+4):
                 if word_index < 0 or word_index >= len(data["preprocessed_kalimat"]):
                     data_embedding.append(np.zeros(postag_dim+word_dim))
+                    # data_embedding.append(np.zeros(word_dim))
                 else:
-                    data_embedding.append(np.concatenate([postag_embedding[word_index], word_embedding[word_index]]))
+                    data_embedding.append(np.concatenate([word_embedding[word_index], postag_embedding[word_index]]))
+                    # data_embedding.append(word_embedding[word_index])
             data["data_embedding"] = np.concatenate(data_embedding)
             # print(np.concatenate(this_word_embedding).shape)
             # Merge embedding

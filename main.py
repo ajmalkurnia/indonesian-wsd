@@ -1,13 +1,36 @@
 import csv
 import xml.etree.ElementTree as ET
+
 from data import open_dataset, disagreement_handling, analyze_data
 from pre_processing import Preprocess
 from feature_extraction import Features
+from evaluation import Evaluator
+
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.neural_network import MLPClassifier
+from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
+
 TRAINING_FILES = ["single_annotator.csv",
                 "double_annotator_agree.csv", "double_annotator_disagree.csv",
                 "triple_annotator_agree.csv", "triple_annotator_disagree.csv"]
 TRAINING_DIR = "training_set/"
 SENSE_FILES = "55WordSenses.xml"
+
+def build_dataset(merged_dataset):
+    feature_matrix = []
+    labels = []
+    for data in merged_dataset:
+        if "data_embedding" in data:
+            labels.append(data["sense"])
+            feature_matrix.append(data["data_embedding"])
+    feature_matrix = np.array(feature_matrix)
+    train_data, test_data, train_label, test_label = train_test_split(feature_matrix,
+                                                labels, test_size=0.33, random_state=8132)
+    return [train_data, train_label], [test_data, test_label]
+
+
 def main():
     print("Open dataset")
     dataset = open_dataset([TRAINING_DIR+files for files in TRAINING_FILES])
@@ -23,34 +46,36 @@ def main():
         sense_id.add(datum["sense"])
     xml_root = ET.parse(SENSE_FILES).getroot()
     for word in xml_root:
-        # print(word.tag, word.attrib)
         for sense in word.findall("senses/sense"):
-            # print(sense.tag, sense.attrib)
             if word.attrib["wid"].zfill(2)+sense.attrib["sid"].zfill(2) not in sense_id:
                 print("Kata `{}` dengan sense `{}` tidak ditemukan di data training".format(word[0].text, sense.attrib))
     print("Preprocessing")
-    # lol = set()
-    # error_word = 0
     for datum in merged_dataset:
         datum["preprocessed_kalimat"] = Preprocess(datum).preprocess()
-        # if datum["kata"] not in datum["preprocessed_kalimat"]:
-        #     error_word += 1
-            # print("##########################################")
-            # print(datum["\ufeffkalimat_id"])
-            # print(datum["kata"])
-            # print(datum["kalimat"])
-            # print(datum["preprocessed_kalimat"])
-    # print(error_word)
+
     print("Feature extraction")
     feature = Features(merged_dataset)
     feature.extract_feature()
     feature.get_trainable_dataset()
-        # for grand_child in child:
+    print(merged_dataset[0])
+    train, dummy_test = build_dataset(merged_dataset)
+    print(train[0].shape, dummy_test[0].shape)
 
-    # print(feature.__dataset[0])
-    # print(merged_dataset[2])
-    # for data in merge_dataset:
-    #
+    classifier = {"SVM":SVC(C=0.1, gamma='auto', tol=1e-6, decision_function_shape='ovo'),
+                "Random Forest":RandomForestClassifier(n_estimators=100),
+                "Neural Net":MLPClassifier(hidden_layer_sizes=1400, activation='logistic',
+                        solver='lbfgs')
+                }
+    for model_name, model_class in classifier.items():
+        model = model_class
+        model.fit(train[0], train[1])
+        prediction = model.predict(dummy_test[0])
+        true_count = 0
+        for pred, true in zip(prediction, dummy_test[1]):
+            if pred == true:
+                true_count += 1
+        print("Akurasi dari {} : {} %".format(model_name, 100*true_count/len(prediction)))
+
 
 if __name__ == "__main__":
     main()

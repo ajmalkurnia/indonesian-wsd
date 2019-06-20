@@ -59,7 +59,7 @@ class Preprocess:
 
     def preprocess(self):
         self.tokenization()
-        self.remove_stopword()
+        # self.remove_stopword()
         self.clean_sentence()
         # self.lemmatization()
         self.stemming()
