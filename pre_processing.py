@@ -11,7 +11,7 @@ class Preprocess:
 
     def __init__(self,data):
         self.__sentence = data["kalimat"]
-        self.word = data["kata"]
+        self.word = data["kata"] if "kata" in data else data["word"]
 
     def tokenization(self):
         self.__sentence = nltk.wordpunct_tokenize(self.__sentence)
@@ -51,9 +51,9 @@ class Preprocess:
         #5. remove single letter word
         self.__sentence = [w.lower() for w in self.__sentence if len(w) > 1]
 
-        exception = {"senilai": "nilai", "bernilai": "nilai",
-                    "penilain": "penilaian", "menurunkannya": "menurunkan",
-                    "mengeluarkannya":"mengeluarkan"}
+        exception = {"senilai": "nilai", "bernilai": "nilai", "menilainya":"nilai",
+                    "dinilainya":"nilai","penilain": "penilaian",
+                    "menurunkannya": "menurunkan","mengeluarkannya":"mengeluarkan"}
 
         self.__sentence = [exception.get(word, word) for word in self.__sentence]
 

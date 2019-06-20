@@ -2,3 +2,5 @@
 /.git
 *.pyc
 /log
+/model
+/answers

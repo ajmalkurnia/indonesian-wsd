@@ -45,8 +45,9 @@ def analyze_data(data):
         # sense.split("")
     print("Total Sentence : {}".format(len(data)))
     print("Average Sense : {}".format(len(data)/len(sense_counter)))
-    print("Sense Counter :")
-    print(sense_counter)
+    print("Max Sense Counter : {}".format(max(list(sense_counter.values()))))
+    print("Min Sense Counter : {}".format(min(list(sense_counter.values()))))
+    # print(sense_counter)
     # print(sorted(list(sense_counter.keys())))
 
 
