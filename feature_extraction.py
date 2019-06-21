@@ -15,18 +15,17 @@ W2V_MODEL_FILE = [""]
 POSTAG_MODEL_DIR = "external_source/all_indo_man_tag_corpus_model.crf.tagger"
 PRECOMPUTED_W2V_DIR = "external_source/"
 CORPORA_W2V_DIR = "external_source/idwiki.txt"
-EMBEDDING_SIZE = 80
+EMBEDDING_SIZE = 130
 WINDOW_SIZE = 3
 
 class Features:
 
     def __init__(self, dataset):
         self.__dataset = dataset
-        self.__postag = set()
+        self.__postag = set(['CC', 'CD', 'DT', 'FW', 'IN', 'JJ', 'MD', 'NEG', 'NN', 'NND', 'NNP', 'OD', 'PR', 'PRP', 'RB', 'RP', 'SC', 'UH', 'VB', 'WH', 'X', 'SYM'])
 
     def __load_precomputed_w2v_model(self, model_directory):
         word_embedding = Word2Vec.load(model_directory)
-        # print(word_embedding.layer1_size)
         return word_embedding
 
     def word_embedding_training(self, pretraining=True, pre_train_dir=""):
@@ -53,8 +52,6 @@ class Features:
         ct = CRFTagger()
         ct.set_model_file(POSTAG_MODEL_DIR)
         data["postag_seq"] = ct.tag_sents([data["preprocessed_kalimat"]])[0]
-        for datum in data["postag_seq"]:
-            self.__postag.add(datum[1])
 
     def get_trainable_dataset(self):
         self.set_up_postag_embedding()

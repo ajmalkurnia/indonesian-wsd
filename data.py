@@ -40,16 +40,22 @@ def disagreement_handling(dataset):
 
 def analyze_data(data):
     sense_counter = defaultdict(int)
+    word_counter = defaultdict(int)
     for datum in data:
+        word_counter[datum["kata"]] += 1
         sense_counter[datum["sense"]] += 1
         # sense.split("")
     print("Total Sentence : {}".format(len(data)))
     print("Average Sense : {}".format(len(data)/len(sense_counter)))
     print("Max Sense Counter : {}".format(max(list(sense_counter.values()))))
     print("Min Sense Counter : {}".format(min(list(sense_counter.values()))))
-    # print(sense_counter)
+    print("Sense Counter :")
+    print(sense_counter)
+    # for sense in sorted(list(sense_counter.keys())):
+    #     print(sense, sense_counter[sense])
     # print(sorted(list(sense_counter.keys())))
-
+    print("Word Counter :")
+    print(word_counter)
 
 def demo():
     pass
