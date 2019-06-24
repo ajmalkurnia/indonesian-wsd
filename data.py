@@ -51,9 +51,9 @@ def analyze_data(data):
     print("Min Sense Counter : {}".format(min(list(sense_counter.values()))))
     print("Sense Counter :")
     print(sense_counter)
-    # for sense in sorted(list(sense_counter.keys())):
-    #     print(sense, sense_counter[sense])
-    # print(sorted(list(sense_counter.keys())))
+    for sense in sorted(list(sense_counter.keys())):
+        print(sense, sense_counter[sense])
+    print(sorted(list(sense_counter.keys())))
     print("Word Counter :")
     print(word_counter)
 

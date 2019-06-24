@@ -1,7 +1,6 @@
 /__pycache__
 /.git
 *.pyc
-/log
 /model
-/answers
 feature.csv
+gold_standard_evaluation.py
