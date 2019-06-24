@@ -1,0 +1,24 @@
+Open dataset
+Resolve disagreement data
+Analyzing sense
+Kata `bidang` dengan sense `{'sid': '4', 'pos': 'adjective'}` tidak ditemukan di data training
+Kata `memerah` dengan sense `{'sid': '1', 'pos': 'verb'}` tidak ditemukan di data training
+Kata `memerah` dengan sense `{'sid': '2', 'pos': 'verb'}` tidak ditemukan di data training
+Kata `memecahkan` dengan sense `{'sid': '4', 'pos': 'verb'}` tidak ditemukan di data training
+Kata `dalam` dengan sense `{'sid': '3', 'pos': 'adjective'}` tidak ditemukan di data training
+Kata `dalam` dengan sense `{'sid': '5', 'pos': 'adjective'}` tidak ditemukan di data training
+Kata `dalam` dengan sense `{'sid': '6', 'pos': 'adjective'}` tidak ditemukan di data training
+Kata `kunci` dengan sense `{'sid': '2', 'pos': 'noun'}` tidak ditemukan di data training
+Kata `berat` dengan sense `{'sid': '5', 'pos': 'adjective'}` tidak ditemukan di data training
+Preprocessing
+Feature extraction
+Build Dataset
+Open test set
+Preprocessed test set
+Extract feature test set
+Try Random Forest :
+Akurasi dari Random Forest : 51.42857142857143 %
+Try SVM :
+Akurasi dari SVM : 51.42857142857143 %
+Try Neural Net :
+Akurasi dari Neural Net : 50.460048426150124 %

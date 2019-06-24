@@ -1,0 +1,24 @@
+Open dataset
+Resolve disagreement data
+Analyzing sense
+Kata `bidang` dengan sense `{'sid': '4', 'pos': 'adjective'}` tidak ditemukan di data training
+Kata `memerah` dengan sense `{'sid': '1', 'pos': 'verb'}` tidak ditemukan di data training
+Kata `memerah` dengan sense `{'sid': '2', 'pos': 'verb'}` tidak ditemukan di data training
+Kata `memecahkan` dengan sense `{'sid': '4', 'pos': 'verb'}` tidak ditemukan di data training
+Kata `dalam` dengan sense `{'sid': '3', 'pos': 'adjective'}` tidak ditemukan di data training
+Kata `dalam` dengan sense `{'sid': '5', 'pos': 'adjective'}` tidak ditemukan di data training
+Kata `dalam` dengan sense `{'sid': '6', 'pos': 'adjective'}` tidak ditemukan di data training
+Kata `kunci` dengan sense `{'sid': '2', 'pos': 'noun'}` tidak ditemukan di data training
+Kata `berat` dengan sense `{'sid': '5', 'pos': 'adjective'}` tidak ditemukan di data training
+Preprocessing
+Feature extraction
+Build Dataset
+Open test set
+Preprocessed test set
+Extract feature test set
+Try Random Forest :
+Model Parameter
+{'bootstrap': True, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_impurity_split': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 1000, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+Build data matrix
+Predict test set
+Write test result
